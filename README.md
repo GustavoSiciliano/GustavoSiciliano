@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Gustavo Siciliano
+# 👋 Hi, I'm Gustavo Siciliano  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **FIAP**.
+🎓 **Software Analysis and Development (ADS)** student at **FIAP**.  
 
 <p align="center">
   <a href="mailto:rodriguesgustavo550@outlook.com" target="_blank">
@@ -16,20 +16,20 @@
 
 ---
 
-Sou um estudante de tecnologia em constante evolução, buscando aprimorar meus conhecimentos e buscando especialização em **análise de dados** e futuramente atuar como Engenheiro de Software
-Tenho interesse em projetos que envolvam **resolução de problemas**, **automação** e **melhoria de processos**.  
-Meu objetivo é crescer como profissional, criando soluções criativas, eficientes e orientadas a resultados.
+I am a technology student in constant evolution, seeking to enhance my **knowledge** and specialize in **data analysis**, with the goal of becoming a **Software Engineer** in the future.  
+I’m passionate about projects involving **problem-solving**, **automation**, and **process optimization**.  
+My goal is to grow as a professional by developing **creative**, **efficient**, and **results-driven** solutions.  
 
 ---
 
-### 🚀 Tecnologias que utilizo e estudo:
+### 🚀 Technologies I study and work with  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_Office_logo_%282019–present%29.svg" width="45" height="45" alt="Pacote Office" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="45" height="45" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="45" height="45" alt="Microsoft Office" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45" height="45" alt="Power BI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
@@ -37,7 +37,7 @@ Meu objetivo é crescer como profissional, criando soluções criativas, eficien
 
 ---
 
-### 📊 Estatísticas do GitHub:
+### 📊 GitHub Stats  
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSiciliano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
