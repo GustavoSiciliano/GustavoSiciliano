@@ -22,7 +22,7 @@ My goal is to grow as a professional by developing **creative**, **efficient**, 
 
 ---
 
-### 🚀 Technologies I study and work with  
+### 🚀 Technologies I study  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
