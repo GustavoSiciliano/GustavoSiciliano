@@ -83,11 +83,13 @@ Meu objetivo é crescer como profissional desenvolvendo soluções **criativas**
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Portfólio
+
+Este repositório reúne todos os projetos que desenvolvo de forma independente, fora da faculdade, como parte do meu portfólio pessoal. Cada projeto representa um desafio real que escolhi resolver para aprofundar meus conhecimentos e demonstrar minhas habilidades na prática.
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [ML - Risco de Estoque](https://github.com/GustavoSiciliano) | Modelo de Machine Learning para prever produtos com risco de parar de vender | Python, SQL Server, RandomForest, Seaborn |
+| [ML - Risco de Estoque](https://github.com/GustavoSiciliano/Portfolio/tree/main/Analise_Vendas_Python) | Modelo de Machine Learning para prever produtos com risco de parar de vender | Python, SQL Server, RandomForest, Seaborn |
 
 ---
 
