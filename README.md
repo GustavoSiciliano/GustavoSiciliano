@@ -1,14 +1,14 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gustavo%20Siciliano&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Back-End%20Developer%20Intern%20%7C%20Data%20Enthusiast&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gustavo%20Siciliano&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Back-End%20Developer%20Intern&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
 <!-- Typing -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Gustavo!+👋;Estudante+de+ADS+na+FIAP+🎓;Estagiário+de+Desenvolvimento+Back-End+💻;Interesse+em+Dados+e+Machine+Learning+📊;Python+%7C+SQL+%7C+Power+BI+%7C+ML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Gustavo!+👋;Estudante+de+ADS+na+FIAP+🎓;Estagiário+de+Desenvolvimento+Back-End+💻;C%23+%7C+.NET+%7C+SQL+%7C+JavaScript)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,20 +16,18 @@
 
 ## 👨‍💻 Sobre mim
 
-- **Nome:** Gustavo Siciliano  
-- **Curso:** Análise e Desenvolvimento de Sistemas — FIAP  
-- **Atuação:** Estagiário de Desenvolvimento Back-End  
-- **Stack principal:** C#, .NET e SQL  
-- **Foco:** Back-End + Dados  
-- **Objetivo:** Construir soluções inteligentes utilizando dados  
+- 🎓 **Curso:** Análise e Desenvolvimento de Sistemas — FIAP
+- 💼 **Atuação:** Estagiário de Desenvolvimento Back-End
+- 🧠 **Stack principal:** C#, .NET, SQL Server e JavaScript
+- 🌱 **Foco atual:** Desenvolvimento de sistemas corporativos robustos e escaláveis
 
-Sou estudante de tecnologia e atualmente atuo como **estagiário de desenvolvimento Back-End**, utilizando **C#, .NET e SQL** na construção de sistemas.
+Atuo como estagiário de Desenvolvimento de Software, onde apoio a equipe na manutenção e evolução de sistemas corporativos desenvolvidos em **C#, .NET e SQL Server**.
 
-Minha experiência na indústria com **Qualidade e PCP** fortaleceu minha visão sobre a importância dos dados na **melhoria de processos, acompanhamento de indicadores e tomada de decisão**.
+No dia a dia, ajudo na identificação e correção de bugs, faço ajustes em consultas e procedures no banco de dados, e contribuo com melhorias visuais e de usabilidade nas telas do sistema, sempre buscando garantir estabilidade e integridade das informações.
 
-Hoje venho desenvolvendo habilidades em **Python, SQL, Excel e Power BI**, além de fundamentos de **Machine Learning**, com o objetivo de aplicar dados junto ao desenvolvimento e criar soluções mais completas.
+Também venho desenvolvendo boas práticas de front-end com **JavaScript**, com foco em responsividade e consistência visual entre diferentes dispositivos.
 
-Tenho interesse em unir **Back-End e Dados**, desenvolvendo aplicações orientadas a dados que gerem valor real para o negócio.
+Essa experiência tem sido uma ótima oportunidade de aplicar na prática o que aprendo na faculdade, além de desenvolver mais autonomia técnica e aprender com profissionais mais experientes da equipe.
 
 ---
 
@@ -41,16 +39,6 @@ Tenho interesse em unir **Back-End e Dados**, desenvolvendo aplicações orienta
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 📊 Dados & Análise
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ### 🗄️ Banco de Dados
@@ -86,14 +74,6 @@ Tenho interesse em unir **Back-End e Dados**, desenvolvendo aplicações orienta
 
 ---
 
-## 🚀 Portfólio
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [ML - Risco de Estoque](https://github.com/GustavoSiciliano/Portfolio/tree/main/Analise_Vendas_Python) | Modelo de Machine Learning para prever produtos com risco de parar de vender | Python, SQL Server, RandomForest |
-
----
-
 ## 📫 Contato
 
 <div align="center">
@@ -107,3 +87,6 @@ Tenho interesse em unir **Back-End e Dados**, desenvolvendo aplicações orienta
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
